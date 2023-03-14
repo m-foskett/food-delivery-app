@@ -21,7 +21,7 @@ const PreparingOrderScreen = () => {
         <SafeAreaView className='bg-primary flex-1 justify-center items-center'>
             {/* Preparaing Order Animation */}
             <Animatable.Image
-                source={require("../assets/deliverooPreparingOrder.gif")}
+                source={require("../assets/preparingOrder.gif")}
                 animation="slideInUp"
                 iterationCount={1}
                 className="h-96 w-96"
