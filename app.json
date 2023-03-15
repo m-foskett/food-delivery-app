@@ -1,7 +1,10 @@
 {
   "expo": {
-    "name": "deliveroo-clone",
-    "slug": "deliveroo-clone",
+    // Addded for the published page
+    "description": "This is a food ordering & delivery application made using React Native, Typescript, Redux and Sanity CMS.",
+
+    "name": "food-delivery-app",
+    "slug": "food-delivery-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
