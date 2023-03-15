@@ -9,6 +9,12 @@ This is a food ordering &amp; delivery application made using React Native, Type
 - [Run Deployed Version](#running-run-deployed-version)
 
 ## :iphone: Screenshots
+<div style="display: inline_block" align="center"><br>
+ <img align="center" alt="Home Screen"  width="225" src="/assets/home_screen.jpg">
+ <img align="center" alt="Restaurant Screen"  width="225" src="/assets/restaurant_screen.jpg">
+ <img align="center" alt="Basket Screen"  width="225" src="/assets/basket_screen.jpg">
+ <img align="center" alt="Delivery Screen"  width="225" src="/assets/delivery_screen.jpg">
+</div>
 
 ## :books: Tech-Stack
 Below is a non-exhaustive list of the technologies utilised within this project.
