@@ -25,3 +25,11 @@ Below is a non-exhaustive list of the technologies utilised within this project.
 | NativeWind |             | React Native Progress |
 
 ## :running: Run Deployed Version
+### :bangbang: Prerequisite
+Download the free Expo Go app to run the live demo.
+
+Open the Camera app on your device and scan the QR code below for a live demo.
+
+<div style="display: inline_block" align="center"><br>
+ <img align="center" alt="QR Code"  width="225" src="/assets/qr_code.PNG">
+</div>
