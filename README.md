@@ -2,6 +2,8 @@
 This is a food ordering &amp; delivery application made using React Native, Typescript, Redux and Sanity CMS.
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2023)
+![GitHub top language](https://img.shields.io/github/languages/top/m-foskett/food-delivery-app)
+![GitHub last commit](https://img.shields.io/github/last-commit/m-foskett/food-delivery-app)
 
 ## :scroll: Table of Contents
 - [Screenshots](#iphone-screenshots)
