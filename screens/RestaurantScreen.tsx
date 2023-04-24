@@ -15,6 +15,7 @@ import { useDispatch, useSelector } from 'react-redux';
 // Custom Redux Slice Actions Import
 import { setRestaurant, selectRestaurant } from '../features/restaurantSlice';
 import { clearBasket } from '../features/basketSlice';
+import { RootStackScreenProps } from '../types/navigationTypes';
 
 const RestaurantScreen = () => {
     // Navigation Prop Declaration
@@ -37,7 +38,7 @@ const RestaurantScreen = () => {
             long,
             lat,
         },
-    } = useRoute();
+    } = useRoute<RootStackScreenProps<'Restaurant'>['route']>();
     // On page update,
     useEffect(() => {
         // If reselecting the same restaurant do nothing
@@ -61,7 +62,6 @@ const RestaurantScreen = () => {
                 })
             );
             dispatch(clearBasket());
-            console.log("new restaurant")
         }
     }, []);
     // Disable header on component render
